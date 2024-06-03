@@ -22,27 +22,27 @@ The Sorting Hat Quiz!
 
 Q1) When I'm dead, I want people to remember me as:
 
-The Good
-The Great
-The Wise
+The Good<br>
+The Great<br>
+The Wise<br>
 The Bold
 
 Q2) Dawn or Dusk?:
 
-Dawn
+Dawn<br>
 Dusk
 
 Q3) Which kind of instrument most pleases your ear?:
 
-The violin
-The trumpet
-The Piano
+The violin<br>
+The trumpet<br>
+The Piano<br>
 The drum
 
 
 Q4) Which road tempts you most:
 
-The wide, sunny grassy lane
-The narrow, dark, lantern-lit alley
-The twisting, leaf-strewn path through woods
+The wide, sunny grassy lane<br>
+The narrow, dark, lantern-lit alley<br>
+The twisting, leaf-strewn path through woods<br>
 The cobbled street lined (ancient buildings)
