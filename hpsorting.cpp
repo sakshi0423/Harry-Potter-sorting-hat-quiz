@@ -91,7 +91,6 @@ int main()
     }
     
 
-    //find maximum count of answer
     std::string house;
     int max = 0;
     if (gryffindor > max) {
@@ -121,7 +120,6 @@ int main()
         house = "Slytherin";
     
     }
-    
     std::cout << house << "!\n";
     }
     
